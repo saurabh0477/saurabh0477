@@ -1,11 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Saurabh Chaurasiya 👋
+
+## 🎓 About Me
+
+- 🎓 BCA (Data Science) Student
+- 💻 Currently learning Data Structures & Algorithms with Python
+- 🌱 Exploring Web Development and AI/ML
+- 🧠 Interested in Problem Solving and Software Development
+
+---
+
+## 🚀 Skills
+
+- Python
+- C
+- Basic Java
+- HTML
+- CSS
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms using Python
+- Web Development
+- AI/ML Fundamentals
+
+---
+
+## 🎯 Goals
+
+- Improve problem-solving skills
+- Build practical Python projects
+- Learn full-stack development
+- Contribute to open-source projects
+
+---
 
 
-**saurabh0477/saurabh0477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on java language
-- 🌱 I’m currently learning BCA+MCA(DS)
-- 💬 Ask me about PYTHON
-- 📫 How to reach me: saurabhchaurasia7052633184@gmail.com
+- Email: saurabhchaurasia7052633184@gmail.com
+- GitHub: https://github.com/saurabh0477
